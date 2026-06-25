@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "slug": "top-government-meetings-in-china",
+      "title": "Top Government Meetings in China",
+      "authors": ["Qing Peng", "Jun Pan"],
+      "status": "R&R at Management Science",
+      "type": "working",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4645698"
+    },
+    {
+      "slug": "pre-fomc-drift-long-term-interest-rates",
+      "title": "The Pre-FOMC Drift and the Secular Decline in Long-Term Interest Rates",
+      "authors": ["Qing Peng", "Jun Pan"],
+      "status": "Working Paper, 2025",
+      "type": "working",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764451"
+    },
+    {
+      "slug": "long-and-short-us-treasury",
+      "title": "The Long and Short of U.S. Treasury",
+      "authors": ["Qing Peng", "Jun Liu", "Jun Pan"],
+      "status": "Working Paper, 2025",
+      "type": "working",
+      "url": ""
+    },
+    {
+      "slug": "time-dependent-intrinsic-correlation-ceemdan",
+      "title": "Time-dependent intrinsic correlation analysis of crude oil and the U.S. dollar based on CEEMDAN",
+      "authors": ["Qing Peng", "Fenghua Wen", "Xu Gong"],
+      "status": "International Journal of Finance & Economics, 2021",
+      "type": "published",
+      "url": "https://doi.org/10.1002/ijfe.1823"
+    }
+  ]
+}
